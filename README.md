@@ -1,12 +1,12 @@
 Cambridge Task Four
-Inside you will find 3 folderst that feature many of the main points of Object Orientated Programming.
+Inside you will find 3 folders that give examples of the main building blocks of OOP, with a greater focus on polymorphism and inheritance.
 
 In Class Modifiers:
 	A main driver code that runs through final, abstract, protected, static and public.
 	The code will initially error as the final overrides are still uncommented.
 
 In ExamplesOfOOP:
-	Code that runs through inheritance to demonstrate OOP.
+	Contains an example of inheritance in Java.
 
 In Polymorphism:
 	This folder has two sub folders: static and dynamic.
@@ -17,4 +17,5 @@ In Polymorphism:
 		Dynamic:
 			In this form of polymorphism a subclass can override an attribute or value of its parent class (method overriding).
 			Java does this at runtime and it is also called dynamic binding or late binding.
-			
+	
+	Each folder contains simple Java code to demonstrate both of these forms of polymorphism.			
